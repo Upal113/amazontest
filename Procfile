@@ -1,0 +1,1 @@
+web: gumicorn amazonfinal:app --log file--
